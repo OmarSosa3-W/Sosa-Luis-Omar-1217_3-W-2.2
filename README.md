@@ -1,5 +1,6 @@
 # Sosa-Luis-Omar-1217_3-W-2.2
 Envio de la segunda practica de la unidad 2
+
 PROGRAMA 1
 
 print(" ") #se colca para dejar un eapacio
@@ -29,6 +30,7 @@ print(" ")#se colca para dejar un eapacio#mostrar mensaje cada ves que el usuari
 ![image](https://github.com/user-attachments/assets/b3613909-cc72-4ffc-a4e1-22e0dd4614cb)
 
 PROGRAMA 2 
+
 print(" ") #se coloca para dejar una linea vacia
 print("SOSA LUIS OMAR 3-W 1217: MI PRACTICA DE SALUDAR (HOLA/NOMBRE)") #nombre del creador del codigo
 print(" ") #se coloca para dejar una linea vacia
@@ -44,6 +46,7 @@ saludo(nombre) #lo que se mostrara en pantalla
 ![image](https://github.com/user-attachments/assets/9789594a-2bf7-4934-a875-9bc48a18d91b)
 
 PROGRAMA 3 
+
 print(" ")#se coloca para dejar un espacio
 print("SOSA LUIS OMAR 3-W 1217: MI PRACTICA DE FACTORIAL")
 print(" ")#se coloca para dejar un espacio
@@ -64,6 +67,7 @@ print(" ")#se coloca para dejar un espacio
 ![image](https://github.com/user-attachments/assets/4f24d2b7-f2fc-486d-8fa5-c4ee3501a408)
 
 PROGRAMA 4 
+
 print(" ") #se coloca para un espacio en blanco al ejecutar
 print("SOSA LUIS OMAR 3-W 1217: MI PRACTICA DE IVA") #nombre del creador
 print(" ") #se coloca para un espacio en blanco al ejecutar
